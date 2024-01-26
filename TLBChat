@@ -1,11 +1,13 @@
-
+<html>
 <script type='text/javascript' src='https://c.la2-c1cs-ia4.salesforceliveagent.com/content/g/js/60.0/deployment.js'></script>
 <script type='text/javascript'>
-liveagent.init('https://d.la2-c1cs-ia4.salesforceliveagent.com/chat', '5721N000000bm8Y', '00D4C0000000vNb');
+liveagent.init('https://d.la2-c1cs-ia4.salesforceliveagent.com/chat', '5721N0000001UxO', '00D4C0000000vNb');
 </script>
+
 <img id="liveagent_button_online_5733m0000001UiG" style="display: none; border: 0px none; cursor: pointer" onclick="liveagent.startChat('5733m0000001UiG')" src="https://bancopopular--uat.sandbox.my.salesforce-sites.com/resource/1520938026000/Chat_Online_Button" /><img id="liveagent_button_offline_5733m0000001UiG" style="display: none; border: 0px none; " src="https://bancopopular--uat.sandbox.my.salesforce-sites.com/resource/1520682427000/Chat_Offline_Button" />
 <script type="text/javascript">
 if (!window._laq) { window._laq = []; }
 window._laq.push(function(){liveagent.showWhenOnline('5733m0000001UiG', document.getElementById('liveagent_button_online_5733m0000001UiG'));
 liveagent.showWhenOffline('5733m0000001UiG', document.getElementById('liveagent_button_offline_5733m0000001UiG'));
 });</script>
+</html>
